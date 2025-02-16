@@ -1,3 +1,3 @@
-# LitterCashing
+# LitterCaching
 
-A 3 part project made for MakeUofT 2025
+A 3-part project made for MakeUofT 2025
